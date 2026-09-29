@@ -1,0 +1,27 @@
+# Secrets
+.env
+*.env
+secrets.json
+
+# Flutter
+myra_flutter/build/
+myra_flutter/.dart_tool/
+myra_flutter/.flutter-plugins
+myra_flutter/.flutter-plugins-dependencies
+myra_flutter/android/.gradle/
+myra_flutter/android/local.properties
+myra_flutter/.packages
+myra_flutter/pubspec.lock
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# IDE/OS
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
